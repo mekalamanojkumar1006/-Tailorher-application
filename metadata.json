@@ -1,6 +1,0 @@
-{
-  "name": "TailorHer by Venkata Laxmi",
-  "description": "A modern full-stack women’s tailoring application with multi-language support (English & Telugu), AI-based size recommendations, and order tracking.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": []
-}
