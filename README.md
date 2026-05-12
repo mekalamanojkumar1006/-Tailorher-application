@@ -1,14 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/b65bd3e9-7d87-4e03-9ec1-ab38318c4035
-
-## Run Locally
+ 
 
 **Prerequisites:** Node.js
 
@@ -19,6 +9,16 @@ View your app in AI Studio: https://ai.studio/apps/b65bd3e9-7d87-4e03-9ec1-ab383
 3. Run the app:
    `npm run dev`
 
-## Optional env vars
+ <img width="1453" height="680" alt="Screenshot 2026-05-11 192057" src="https://github.com/user-attachments/assets/36417ee3-b66c-420d-a8ba-35428bdd4ba9" />
+<img width="1596" height="648" alt="Screenshot 2026-05-11 192033" src="https://github.com/user-attachments/assets/d1b6a3c5-5ba5-4493-a3e2-471412cbe99e" />
+#login through
+<img width="1332" height="423" alt="Screenshot 2026-05-11 192612" src="https://github.com/user-attachments/assets/2ba5e63b-9cc9-41cf-9cfb-f589623dcd83" />
+#login database
+<img width="1282" height="772" alt="Screenshot 2026-05-11 192554" src="https://github.com/user-attachments/assets/5647f5fb-f684-4f2d-9eae-6beebfac783b" />
+#demo video
 
-- `GEMINI_API_KEY` for AI features if required by the app.
+https://github.com/user-attachments/assets/ca34272b-9418-4976-9de6-988e397ce8ec
+
+
+
+
